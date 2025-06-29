@@ -1,39 +1,39 @@
 readme_content = """
-# 📱 iRevolution: A Data-driven Exploration of Apple's iPhone Impact in India using Tableau
+# iRevolution: A Data-driven Exploration of Apple's iPhone Impact in India using Tableau
 
 Welcome to **iRevolution**, a data visualization and analytics project focused on analyzing the adoption, market trends, and cultural impact of Apple's iPhone in India. Built with **Tableau**, **Python (Flask)**, **HTML/CSS**, and integrated with **DB2** and **Cognos**, this project offers a comprehensive look into the business and social footprint of the iPhone in the Indian market.
 
 ---
 
-## 🚀 Project Objective
+## Project Objective
 
 To analyze and visualize how Apple's iPhone has impacted the Indian smartphone market in terms of:
 
-- 📈 Market Penetration and Sales Trends  
-- 👥 User Demographics and Preferences  
-- 📱 Cultural and Social Media Impact  
+- Market Penetration and Sales Trends  
+- User Demographics and Preferences  
+- Cultural and Social Media Impact  
 
 This project is designed for **market analysts**, **tech companies**, **marketers**, and **academic researchers** interested in understanding the iPhone's influence in India through interactive dashboards and storytelling.
 
 ---
 
-## 🔍 Project Scenarios
+## Project Scenarios
 
-### 📊 Scenario 1: Market Penetration and Sales Trends
+### Scenario 1: Market Penetration and Sales Trends
 - Analyze sales trends over time and region.
 - Identify peak sales periods and regions with highest penetration.
 
-### 👥 Scenario 2: User Demographics and Preferences
+### Scenario 2: User Demographics and Preferences
 - Visualize data by age group, income, and region.
 - Identify adoption patterns and consumer preferences.
 
-### 🌐 Scenario 3: Cultural and Social Media Impact
+### Scenario 3: Cultural and Social Media Impact
 - Sentiment analysis from Twitter and Instagram.
 - Understand how iPhone influences Indian culture, lifestyle, and aspirations.
 
 ---
 
-## 📁 Project Flow
+## Project Flow
 
 1. **Problem Understanding**
    - Define business problem
@@ -66,7 +66,7 @@ This project is designed for **market analysts**, **tech companies**, **marketer
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS  
 - **Backend**: Python (Flask)  
@@ -78,7 +78,7 @@ This project is designed for **market analysts**, **tech companies**, **marketer
 
 ---
 
-## 📊 Tableau Features
+## Tableau Features
 
 - Number of Unique Visualizations: `10+`  
 - Interactive Filters: `Region, Time, Income Group`  
@@ -87,7 +87,7 @@ This project is designed for **market analysts**, **tech companies**, **marketer
 
 ---
 
-## 📄 How to Run This Project
+## How to Run This Project
 
 1. Clone the repository:
    ```bash
