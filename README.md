@@ -1,4 +1,3 @@
-readme_content = """
 # iRevolution: A Data-driven Exploration of Apple's iPhone Impact in India using Tableau
 
 Welcome to **iRevolution**, a data visualization and analytics project focused on analyzing the adoption, market trends, and cultural impact of Apple's iPhone in India. Built with **Tableau**, **Python (Flask)**, **HTML/CSS**, and integrated with **DB2** and **Cognos**, this project offers a comprehensive look into the business and social footprint of the iPhone in the Indian market.
